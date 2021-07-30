@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2021-t2-prac2",
+  "version": "1.0.0",
+  "description": "SIT prac 2",
+  "main": "server.js",
+  "scripts": {
+    "start" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chashamsarao/sit725-2021-t2-prac2.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Chasham Shergill",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/chashamsarao/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/chashamsarao/sit725-2021-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
